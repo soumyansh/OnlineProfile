@@ -164,7 +164,7 @@
             {
               "authorName": "HTML/CSS and JavaScript",
               "authorBio": "",
-              "text": "<p>Truly passionate towards front end development and i love to create <b>simple and beautful UI's using HTML/CSS and JavaScript</b></p><p><span style=\"font-size: 1.125rem;\">For backend development i prefer Node.js, Express and MongoDB</span><br></p>",
+              "text": "<p>Truly passionate towards front end development and i love to create <b>simple and beautful UI's using HTML/CSS and JavaScript</b></p><p><span style=\"font-size: 1.125rem;\">For backend i prefer Node.js, Express and MongoDB</span><br></p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/html-css-js-160x160.png",
