@@ -90,7 +90,7 @@
           },
           "title": "Hi, I am Soumya",
           "text": "Welcome to my website. I am a programmer and i love to automate almost everything possible in the computer world.<br><br>My solutions would not only improve your potential \n<br>business cycle but also would help in bringing the operational efficiency<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"assets/files/Resume_SoumyaGupta_Automation_6yrs.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume Download<br></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"assets/files/Resume_SoumyaGupta_Automation.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Resume Download<br></a>",
           "_tags": [
             "Theme"
           ],
@@ -257,7 +257,7 @@
           },
           "text1": "<strong>Address</strong><br>U-50/56 , 1st Floor<br>DLF Phase 3<br>Gurgaon 122001",
           "text2": "<p><strong>Contacts</strong><br>\n<a href=\"mailto:soumyansh@gmail.com\" class=\"text-black\">Email: soumyansh@gmail.com</a><br>\nPhone: +91-9354628809<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;+91-9560753005</p>",
-          "text3": "<strong><a href=\"assets/files/Resume_SoumyaGupta_Automation_6yrs.pdf\" target=\"_blank\" class=\"text-black\">Links</a></strong><br><a href=\"assets/files/Resume_SoumyaGupta_Automation_6yrs.pdf\" target=\"_blank\" class=\"text-black\">Resume Download</a><br><a href=\"assets/files/Resume_SoumyaGupta_Automation_6yrs.pdf\" target=\"_blank\" class=\"text-black\">LinkedIn Profile</a>",
+          "text3": "<strong><a href=\"assets/files/Resume_SoumyaGupta_Automation_6yrs.pdf\" target=\"_blank\" class=\"text-black\">Links</a></strong><br><a href=\"assets/files/Resume_SoumyaGupta_Automation.pdf\" target=\"_blank\" class=\"text-black\">Resume Download</a><br><a href=\"assets/files/Resume_SoumyaGupta_Automation_6yrs.pdf\" target=\"_blank\" class=\"text-black\">LinkedIn Profile</a>",
           "_tags": [
             "Theme"
           ],
