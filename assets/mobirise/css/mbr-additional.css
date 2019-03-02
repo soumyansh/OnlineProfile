@@ -425,14 +425,27 @@ h6,
 #msg-box5-1 .btn {
   font-size: 13px;
 }
+#msg-box2-f .mbr-section-title {
+  color: #000000;
+  text-align: left;
+  font-size: 30px;
+}
+#msg-box2-f .mbr-section-subtitle {
+  color: #000000;
+  text-align: left;
+  font-size: 19px;
+}
+#features3-e H4 {
+  color: #28324e;
+}
 #msg-box2-d .mbr-section-title {
   color: #000000;
-  text-align: center;
-  font-size: 32px;
+  text-align: left;
+  font-size: 30px;
 }
 #msg-box2-d .mbr-section-subtitle {
   color: #000000;
-  text-align: center;
+  text-align: left;
   font-size: 19px;
 }
 #features4-c .card-subtitle {
@@ -444,12 +457,12 @@ h6,
 }
 #msg-box2-b .mbr-section-title {
   color: #000000;
-  text-align: center;
-  font-size: 36px;
+  text-align: left;
+  font-size: 30px;
 }
 #msg-box2-b .mbr-section-subtitle {
   color: #000000;
-  text-align: center;
+  text-align: left;
   font-size: 19px;
 }
 #contacts1-a P {
