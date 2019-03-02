@@ -425,13 +425,31 @@ h6,
 #msg-box5-1 .btn {
   font-size: 13px;
 }
+#msg-box2-d .mbr-section-title {
+  color: #000000;
+  text-align: center;
+  font-size: 32px;
+}
+#msg-box2-d .mbr-section-subtitle {
+  color: #000000;
+  text-align: center;
+  font-size: 19px;
+}
+#features4-c .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-c .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
 #msg-box2-b .mbr-section-title {
   color: #000000;
-  text-align: left;
+  text-align: center;
+  font-size: 36px;
 }
 #msg-box2-b .mbr-section-subtitle {
   color: #000000;
-  text-align: left;
+  text-align: center;
   font-size: 19px;
 }
 #contacts1-a P {
