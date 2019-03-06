@@ -476,3 +476,8 @@ h6,
   font-size: 14px;
   font-family: 'Roboto', sans-serif;
 }
+
+#headings{
+  font-weight: bold;
+  text-align: center;
+}
